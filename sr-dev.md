@@ -30,7 +30,7 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 ## Your Next Step?
 If you love to build things and care deeply about the future of data, we want to hear from you! Please email [devjobs@oceanprotocol.com](mailto:devjobs@oceanprotocol.com), with:
 * your cover letter - why you’d like to join
-* resume
+* your CV
 * code samples (e.g. GitHub profile)
 
 ## Note
