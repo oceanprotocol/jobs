@@ -1,4 +1,4 @@
 ## Developer Jobs
 
-- 🐬 [Senior Blockchain Developer](/1.md)
-- 🐙 [Application Engineer](/2.md)
+- 🐬 [Senior Blockchain Developer](/sr-dev.md)
+- 🐙 [Application Engineer](/ae.md)
