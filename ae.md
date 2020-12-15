@@ -34,3 +34,6 @@ If you love to build things and care deeply about the future of data, we want to
 * code samples (e.g. GitHub profile)
 * writing samples (e.g. blog or report)
 * presentation samples (e.g. Powerpoint, GSheet), video if available
+
+## Note
+The team will be away for the second half of Dec 2020. We will start processing applications when we get back in early January.
