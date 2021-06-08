@@ -5,4 +5,4 @@
 
 ## UX Jobs
 
-- 🐠 [Senior UX Designer](/sr-ux.md)
+- 🐠 [Senior UX Designer](/ux.md)
