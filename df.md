@@ -15,14 +15,13 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 * Over time they will ideally automate/delegate parts or sections of the program for optimization. Some things can be automated using script and tech. They will design initiatives to decentralize other decision-making efforts to the community via panel or voting.
 
 
-
 ## Skills and Experience 
 * We don’t expect applicants to be an expert in everything listed below which is why we’ve separated the requirements into two tiers. The ideal candidate loves to communicate, to code, to build meaningful technical communities and relationships with key stakeholders.
 
 
 ## Minimum Qualifications
-* +3 years of experience working in technical/development roles in the crypto projects
-* +2 years Hands-on experience in development in Web3 and Web2 tech stack
+* 3+ years of experience working in technical/development roles in the crypto projects
+* 2+ years Hands-on experience in development in Web3 and Web2 tech stack
 * Proven experience in building meaningful technical communities around projects
 * Ability to build and manage relationships with key stakeholders
 * Ability to take calculated decisions based on data 
