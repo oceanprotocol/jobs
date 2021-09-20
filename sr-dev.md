@@ -4,7 +4,7 @@
 Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stakers and community developers. To serve it better, we’re hiring! If you are someone that loves to build things and cares deeply about the future of data, we want to hear from you.
 
 ## Responsibilities
-* You will design & build Ocean protocol core software, from the level of blockchain to the level of dapps
+* You will design & build Ocean Protocol core software, from the level of blockchain to the level of dapps
 * You will co-plan and co-design the product with your team in an agile, open-source development process
 
 ## Skills and Experience 
