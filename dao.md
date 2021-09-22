@@ -27,7 +27,7 @@
 * Differentiate good and bad feedback to find real pain points to improve product/program based on learnings and manage and update scripts and reward function accordingly
 * Proven experience in building meaningful technical communities around projects and ability to build and manage relationship with a key stakeholders
 * Stellar research skills
-* Preferred work hours: 9-5 on North American time zones. We start early to sync with the EU team (7am PDT)w.
+* Preferred work hours: 9-5 on North American time zones. We start early to sync with the EU team (7am PDT).
 * We don’t expect you to be an expert in all of these. Rather, we’d love to see that you’re interested in them, perhaps know one or two as a starting point, and most importantly, that you’ll learn more about them as you grow with us professionally and personally.
 
 
