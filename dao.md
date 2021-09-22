@@ -1,5 +1,5 @@
 # 🦞 Senior Blockchain Developer - OceanDAO
-[Ocean Protocol](https://www.oceanprotocol.com/) has a vibrant, expanding ecosystem of engineers, data scientists, data brokers, evangelists that build traction across 5 pillars of growth, and receive funding to continue delivering results. To serve them better, we’re hiring!
+[Ocean Protocol](https://www.oceanprotocol.com/) has a vibrant, expanding ecosystem of engineers, data scientists, neuroscientists, ambassadors, podcasters, that are build traction across 5 pillars of growth, receiving grants and funding to deliver results. To serve them better, we’re hiring!
 
 [OceanDAO](https://www.oceanprotocol.com/dao) is a key component that brings decentralization and scale to participants that are driving traction into the Ocean ecosystem. We’re growing the OceanDAO team. If you love to work with crypto, to build and to engage deeply with an enthusiastic community, we want to hear from you.
 
