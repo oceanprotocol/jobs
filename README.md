@@ -3,7 +3,7 @@
 - 🐬 [Senior Blockchain Developer](/sr-dev.md)
 - 🐙 [Application Engineer - Enterprise Team](/ae.md)
 - 🦈 [Senior Blockchain Developer - Data Farming](/df.md)
-- 🐳 [Senior Web Developer](/web.md)
+- 🐳 [Senior Frontend Web3 Developer](/web.md)
 
 ## UX Jobs
 
