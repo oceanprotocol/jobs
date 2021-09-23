@@ -1,7 +1,7 @@
 # 🦞 Senior Blockchain Developer - OceanDAO
 [Ocean Protocol](https://www.oceanprotocol.com/) has a vibrant, expanding ecosystem of engineers, data scientists, neuroscientists, ambassadors, podcasters, that are build traction across 5 pillars of growth, receiving grants and funding to deliver results. To serve them better, we’re hiring!
 
-[OceanDAO](https://www.oceanprotocol.com/dao) is a key component that brings decentralization and scale to participants that are driving traction into the Ocean ecosystem. We’re growing the OceanDAO team. If you love to work with crypto, to build and to engage deeply with an enthusiastic community, we want to hear from you.
+[OceanDAO](https://www.oceanprotocol.com/dao) is a key component that brings decentralization and scale to participants that are driving traction into the Ocean ecosystem. We’re growing the OceanDAO team. If you love to work with crypto, build natively on web3, and to engage deeply with an enthusiastic community, we want to hear from you.
 
 
 ## Responsibilities
@@ -10,9 +10,9 @@
 
 
 ## Minimum Qualifications
-* 6+ months of Solidity experience
-* 3+ years backend experience, including NodeJS
 * 4+ years of software experience
+* 3+ years backend experience, including NodeJS
+* 6+ months of Solidity experience
 * Experience working in technical/development roles in the crypto projects
 * Process-driven, proactive - able to report on your activity and communicate well with the team and DAO (community).
 
@@ -21,10 +21,10 @@
 * 2+ years working with cloud infrastructure, supporting devops.
 * 1+ years CI/CD experience (e.g. Travis, tox)
 * You’re obsessed with blockchain and DAOs. You play with dapps, vote on proposals, or have contributed code to a DAO.
-* Excellent writing and communication skills. Candidate will engage with the community, receive feedback, identify usage patterns, and communicate macro outcomes.
+* Excellent writing and communication skills. You will engage with the community, receive feedback, identify usage patterns, and communicate macro outcomes.
 * Successfully delivered on promises, comfortable working autonomously and within a team
 * Differentiate good and bad feedback to find real pain points to improve product/program based on learnings and manage and update scripts and reward function accordingly
-* Proven experience in building meaningful technical communities around projects and ability to build and manage relationship with a key stakeholders
+* Proven experience in building meaningful technical communities around projects and ability to build and manage relationships with key stakeholders
 * Stellar research skills
 * Preferred work hours: 9-5 on North American time zones. We start early to sync with the EU team (7am PDT).
 * We don’t expect you to be an expert in all of these. Rather, we’d love to see that you’re interested in them, perhaps know one or two as a starting point, and most importantly, that you’ll learn more about them as you grow with us professionally and personally.
