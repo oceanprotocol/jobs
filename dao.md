@@ -12,7 +12,7 @@
 ## Minimum Qualifications
 * 4+ years of software experience
 * 3+ years backend experience, including NodeJS
-* 1+ year(s) experience with web3.js
+* 1+ year experience with web3.js
 * 6+ months of Solidity experience
 * Experience working in technical/development roles in the crypto projects
 * Process-driven, proactive - able to report on your activity and communicate well with the team and DAO (community).
