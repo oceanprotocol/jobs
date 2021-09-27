@@ -32,6 +32,3 @@ If you love to build things and care deeply about the future of data, we want to
 * your cover letter - why you’d like to join
 * your CV
 * code samples (e.g. GitHub profile)
-
-## Note
-The team will be away for the second half of Dec 2020. We will start processing applications when we get back in early January.
