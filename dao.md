@@ -12,6 +12,7 @@
 ## Minimum Qualifications
 * 4+ years of software experience
 * 3+ years backend experience, including NodeJS
+* 1+ year(s) experience with web3.js
 * 6+ months of Solidity experience
 * Experience working in technical/development roles in the crypto projects
 * Process-driven, proactive - able to report on your activity and communicate well with the team and DAO (community).
@@ -35,6 +36,7 @@
 If you love to build things and care deeply about the future of data, we want to hear from you! Please email [devjobs@oceanprotocol.com](mailto:devjobs@oceanprotocol.com), with:
 * your cover letter - why you’d like to join
 * your CV
+* your eth address(es) or .ens names (optional)
 * code samples (e.g. GitHub profile)
 * writing samples (e.g. blog or report)
 * presentation samples (e.g. Powerpoint, GSheet), video if available
