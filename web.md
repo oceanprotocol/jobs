@@ -5,7 +5,7 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 
 
 ## Responsibilities
-* You will design & build Ocean Protocol frontend software with your team in an agile, open-source development process
+* You will work on Ocean Market and client library ocean.js, with a focus on Typescript, React, and CSS modules 
 * You will collaborate closely with product designers with a focus on new feature design and prototyping
 * Be involved in the user experience design process, from wireframes and mockups through implementation and release
 * Help define and maintain visual guidelines and ensure consistency throughout the apps
@@ -19,6 +19,7 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 ## Minimum Qualifications
 * 5+ years of Javascript, HTML, and CSS software experience
 * 1+ years web3.js experience
+* Proficient in the JavaScript/npm ecosystem
 * Experience developing responsive mobile-first websites
 * You know how to analyze the business processes of a customer, can identify and mitigate the pain points, and have a sense for design, communication, and presentation
 * Good coordination skills to define design requirements and specifications
