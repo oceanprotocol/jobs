@@ -28,10 +28,7 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 * We don’t expect you to be an expert in all of these. Rather, we’d love to see that you’re *interested* in them, perhaps know one or two as a starting point, and most importantly, that you’ll learn more about them as you grow with us professionally and personally.
 
 ## Your Next Step?
-If you love to build things and care deeply about the future of data, we want to hear from you! Please email [devjobs@oceanprotocol.com](mailto:devjobs@oceanprotocol.com), with:
+If you love to build things and care deeply about the future of data, we want to hear from you! Please email [devjobs@oceanprotocol.com](mailto:devjobs@oceanprotocol.com) by October 23rd, with:
 * your cover letter - why you’d like to join
 * your CV
 * code samples (e.g. GitHub profile)
-
-## Note
-The team will be away for the second half of Dec 2020. We will start processing applications when we get back in early January.

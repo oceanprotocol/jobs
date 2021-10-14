@@ -16,8 +16,7 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 ## Minimum Qualifications
 * 5+ years of software experience
 * 2+ years Javascript experience
-* 6+ months web3.js experience
-* 1+ years blockchain frontend (dapp) or backend software experience
+* 1+ years blockchain frontend (web3.js) or backend software experience
 * 2+ years of experience in customer-facing projects
 * You focus on the outcome. You work with the team to set goals, then to achieve the goals. You are a creative “make it happen” problem solver
 * Good communication skills
