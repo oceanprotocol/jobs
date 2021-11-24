@@ -5,7 +5,3 @@
 - 🦈 [Senior Blockchain Developer - Data Farming](/df.md)
 - 🦞 [Senior Blockchain Developer - OceanDAO](/dao.md)
 - 🐳 [Senior Frontend Web3 Developer](/web.md)
-
-## UX Jobs
-
-- 🐠 [Senior UX Designer](/ux.md)
