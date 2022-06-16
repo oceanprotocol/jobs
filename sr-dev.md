@@ -11,7 +11,7 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 * We don’t expect applicants to be an expert in everything listed below which is why we’ve separated the requirements into two tiers. The ideal candidate is obsessed with blockchain; has Solidity experience; and thrives in a distributed team environment. 
 
 ## Minimum Qualifications
-* 5+ years of software experience
+* 10+ years of software experience
 * 2+ years Python 
 * 1+ years blockchain software experience
 * 6+ months Solidity experience
