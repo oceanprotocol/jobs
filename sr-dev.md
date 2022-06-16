@@ -12,14 +12,14 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 
 ## Minimum Qualifications
 * 5+ years of software experience
-* 2+ years Python or Javascript experience 
+* 2+ years Python 
 * 1+ years blockchain software experience
 * 6+ months Solidity experience
 * You focus on the outcome. You work with the team to set goals, then to achieve the goals. You are a creative “make it happen” problem solver. 
 * Proficient in writing & speaking English
 
 ## Nice-to-haves
-* 2+ years Python *and* JavaScript
+* 2+ years JavaScript
 * 1+ years CI/CD experience (e.g. Travis, tox)
 * You’re obsessed with blockchain. You follow crypto Twitter, play with dapps, read about Token Engineering, and maybe even yield farm. 
 * As a bonus, we'd love to hear about cool stuff you've built with: data/service-oriented Web3 tech (IPFS / Filecoin, TheGraph, Chainlink, Polkadot / Substrate, Cosmos) or backend services (REST APIs, Travis, Docker, GraphQL, K8s). The nerdier the better:)
@@ -28,7 +28,7 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 * We don’t expect you to be an expert in all of these. Rather, we’d love to see that you’re *interested* in them, perhaps know one or two as a starting point, and most importantly, that you’ll learn more about them as you grow with us professionally and personally.
 
 ## Your Next Step?
-If you love to build things and care deeply about the future of data, we want to hear from you! Please email [devjobs@oceanprotocol.com](mailto:devjobs@oceanprotocol.com) by October 23rd, with:
+If you love to build things and care deeply about the future of data, we want to hear from you! Please email [devjobs@oceanprotocol.com](mailto:devjobs@oceanprotocol.com) by July 8th, with:
 * your cover letter - why you’d like to join
 * your CV
 * code samples (e.g. GitHub profile)
