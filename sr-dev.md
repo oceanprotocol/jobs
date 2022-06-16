@@ -13,13 +13,13 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 ## Minimum Qualifications
 * 10+ years of software experience
 * 2+ years Python 
+* 2+ years JavaScript
 * 1+ years blockchain software experience
 * 6+ months Solidity experience
 * You focus on the outcome. You work with the team to set goals, then to achieve the goals. You are a creative “make it happen” problem solver. 
 * Proficient in writing & speaking English
 
 ## Nice-to-haves
-* 2+ years JavaScript
 * 1+ years CI/CD experience (e.g. Travis, tox)
 * You’re obsessed with blockchain. You follow crypto Twitter, play with dapps, read about Token Engineering, and maybe even yield farm. 
 * As a bonus, we'd love to hear about cool stuff you've built with: data/service-oriented Web3 tech (IPFS / Filecoin, TheGraph, Chainlink, Polkadot / Substrate, Cosmos) or backend services (REST APIs, Travis, Docker, GraphQL, K8s). The nerdier the better:)
