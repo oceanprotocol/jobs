@@ -1,4 +1,4 @@
-# 🐬 Senior Blockchain Developer
+# 🐬 Senior Backend Developer
 [Ocean Protocol](https://www.oceanprotocol.com) builds tools for people to reclaim control of their data and unleash an open data economy. Ocean tools make it easy to publish & consume data services as ERC20 datatokens, and bridge data to DeFi. Ocean Market is a DEX tuned for data.
 
 Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stakers and community developers. To serve it better, we’re hiring! If you are someone that loves to build things and cares deeply about the future of data, we want to hear from you.
