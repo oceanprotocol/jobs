@@ -4,7 +4,7 @@
 Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stakers and community developers. To serve it better, we’re hiring! If you are someone that loves to build things and cares deeply about the future of data, we want to hear from you.
 
 ## Responsibilities
-* You will design & build Ocean Protocol core software, from the level of blockchain to the level of dapps
+* You will design & build Ocean Protocol core software
 * You will co-plan and co-design the product with your team in an agile, open-source development process
 
 ## Skills and Experience 
@@ -12,14 +12,14 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 
 ## Minimum Qualifications
 * 10+ years of software experience
-* 2+ years Python 
-* 2+ years JavaScript
-* 1+ years blockchain software experience
-* 6+ months Solidity experience
+* Python: 5+ years experience. Strong proficiency in Python programming and a deep understanding of its ecosystem would be fantastic.
+* Web3: 1+ years experience, with a solid understanding of interacting with smart contracts
+* Docker: 1+ years experience. Practical knowledge in Docker
 * You focus on the outcome. You work with the team to set goals, then to achieve the goals. You are a creative “make it happen” problem solver. 
 * Proficient in writing & speaking English
 
 ## Nice-to-haves
+* Javascript: 1+ years experience. Familiarity with reading and understanding JavaScript code will come in handy when collaborating on projects involving both Python and JavaScript.
 * 1+ years CI/CD experience (e.g. Travis, tox)
 * You’re obsessed with blockchain. You follow crypto Twitter, play with dapps, read about Token Engineering, and maybe even yield farm. 
 * As a bonus, we'd love to hear about cool stuff you've built with: data/service-oriented Web3 tech (IPFS / Filecoin, TheGraph, Chainlink, Polkadot / Substrate, Cosmos) or backend services (REST APIs, Travis, Docker, GraphQL, K8s). The nerdier the better:)
