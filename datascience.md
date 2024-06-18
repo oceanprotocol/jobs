@@ -16,10 +16,11 @@ We're hiring for the Ocean Predictoor team. If you're a young, hungry data scien
 Minimum qualifications:
 * 3+ years of Python experience. We don't care if it's in a company, from your university thesis, or hacking for fun. But you have to seriously love coding. 
 * 1+ years of AI/ML/statistics/data science experience. As above: we don't care from what context. But you have to love doing AI. And not be scared of the math. Do you read NeurIPS papers for fun? Have you done tutorials on building LLMs from scratch? Do you get obsessed with pushing the performance of your evolutionary algorithm? If yes to any of these - or similar questions - read on.
+* You're interested in financial markets, and up to learn more. Ideally you have a deeper background, such as algorithmic trading in tradfi or defi
 * Proficient in speaking & writing English.
 
 Qualifications beyond:
-* You may have significantly more experience in software or AI than the minimums described above. Great! Let's talk!
+* You may have significantly more experience in software or AI or finance than the minimums described above. Great! Let's talk!
 
 What we are colorblind to:
 * Fancy education, fancy past titles, fancy past companies. We don't care about that. Rather: can you build, and are you ready to play the game?
