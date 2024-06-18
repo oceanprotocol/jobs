@@ -25,7 +25,7 @@ What we are colorblind to:
 * Fancy education, fancy past titles, fancy past companies. We don't care about that. Rather: can you build, and are you ready to play the game?
 
 ## Details of position
-* Full-time
+* Full-time position, via a contract. You can't be also working for other companies. Though side passion projects are cool:)
 * Work from wherever you want: the position is remote. Bring your own computer.
 * We follow an agile, open-source software development practice with continuous integration etc. 
 * Preferred work hours: 9-5ish on European time zones. If you need to get up early or stay up late to be available in a core time around 2pm-5pm, that works for us.
