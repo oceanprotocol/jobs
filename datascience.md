@@ -30,7 +30,7 @@ What we are colorblind to:
 * Preferred work hours: 9-5ish on European time zones. If you need to get up early or stay up late to be available in a core time around 2pm-5pm, that works for us.
 
 ## Your Next Step?
-If you love competitive games, Python and AI, then we want to hear from you! Please email [dsjob@oceanprotocol.com](mailto:dsjob@oceanprotocol.com), with:
+If you love competitive games, Python and AI, then we want to hear from you! Please email [jobs@oceanprotocol.com](mailto:jobs@oceanprotocol.com), with:
 * code samples. Ideally, your GitHub profile. Show us that you can build software and do AI!
 * a paragraph on why you’d like to join
 * your CV. This doesn't need to be fancy. What we really care about is code samples. 
