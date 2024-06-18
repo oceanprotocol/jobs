@@ -1,3 +1,4 @@
-## Developer Jobs
+## Jobs
 
-We currently don't have any open positions.
+Open positions:
+- [Data scientist - Developer](datascience.md)
