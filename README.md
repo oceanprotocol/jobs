@@ -1,4 +1,4 @@
 ## Jobs
 
 Open positions:
-- <none>
+- (none)
