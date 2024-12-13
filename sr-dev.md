@@ -12,18 +12,16 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 
 ## Minimum Qualifications
 * 10+ years of software experience
-* Python: 5+ years experience. Strong proficiency in Python programming and a deep understanding of its ecosystem would be fantastic.
-* Web3: 1+ years experience, with a solid understanding of interacting with smart contracts
+* Node.js: 5+ years
+* Web3: 1+ years experience, with a solid understanding of writing with smart contracts in solidity
 * Docker: 1+ years experience. Practical knowledge in Docker
+* Good knowledge of K8s
 * You focus on the outcome. You work with the team to set goals, then to achieve the goals. You are a creative “make it happen” problem solver. 
 * Proficient in writing & speaking English
 
 ## Nice-to-haves
-* Javascript: 1+ years experience. Familiarity with reading and understanding JavaScript code will come in handy when collaborating on projects involving both Python and JavaScript.
 * 1+ years CI/CD experience (e.g. Travis, tox)
 * You’re obsessed with blockchain. You follow crypto Twitter, play with dapps, read about Token Engineering, and maybe even yield farm. 
-* As a bonus, we'd love to hear about cool stuff you've built with: data/service-oriented Web3 tech (IPFS / Filecoin, TheGraph, Chainlink, Polkadot / Substrate, Cosmos) or backend services (REST APIs, Travis, Docker, GraphQL, K8s). The nerdier the better:)
-* You’re an excellent writer.
 * Preferred work hours: 9-5ish on European time zones 
 * We don’t expect you to be an expert in all of these. Rather, we’d love to see that you’re *interested* in them, perhaps know one or two as a starting point, and most importantly, that you’ll learn more about them as you grow with us professionally and personally.
 
