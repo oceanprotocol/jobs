@@ -1,4 +1,4 @@
 ## Jobs
 
 Open positions:
-- (none)
+- [Senior NodeJs Developer](/sr-dev.md)
