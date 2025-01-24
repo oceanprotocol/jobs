@@ -15,6 +15,7 @@ Ocean has a vibrant, expanding ecosystem of data suppliers, data consumers, stak
 * Node.js: 5+ years
 * Web3: 1+ years experience, with a solid understanding of writing with smart contracts in solidity
 * Docker: 1+ years experience. Practical knowledge in Docker
+* K8s: 1+ years experience. Practical knowledge in integrating K8S APIs
 * Good knowledge of K8s
 * You focus on the outcome. You work with the team to set goals, then to achieve the goals. You are a creative “make it happen” problem solver. 
 * Proficient in writing & speaking English
